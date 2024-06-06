@@ -54,6 +54,3 @@ app.use(ferry.route({
 
 # Running tests
 `npm test`
-
-# License
-MIT. Copyright (c) [Sterling Whitley](http://sterlingw.com)
